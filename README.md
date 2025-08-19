@@ -5,4 +5,4 @@
 注：仓库内的pdb_index.html文件可能较老，无法包含pdb数据库中新上传的文件，该索引文件截止日期为2025-08-01，如需最新索引，请下载官方页面：[https://files.pdbj.org/pub/pdb/data/structures/all/pdb/](https://files.pdbj.org/pub/pdb/data/structures/all/pdb/)
 
 特别声明：
-<font color=red>**截止到2025-08-01，PDB全库大约有70万个文件，全库下载耗时非常长，请酌情使用。另外，为了减轻数据库服务器的压力，请勿将并发数量设置过高</font>
+**截止到2025-08-01，PDB全库大约有70万个文件，全库下载耗时非常长，请酌情使用。另外，为了减轻数据库服务器的压力，请勿将并发数量设置过高。**
