@@ -1,3 +1,5 @@
+### PDB数据库全库下载工具
+
 ### 用法
 
 下载仓库内的pdb_index.html文件，传入代码中替换HTML_FILE_PATH，然后根据实际情况修改保存目录，最大连接数等参数，配置完成后使用`python pdb_downloader.py`即可启动下载。
